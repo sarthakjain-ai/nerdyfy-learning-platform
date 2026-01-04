@@ -65,10 +65,10 @@ User → Google Sites → Canva UI → Google Forms → Google Sheets → Google
 ---
 ## 👥 Team
 
-Product Designer & UX Lead- Pragya Jain
-Content Architect & Learning Designer- Shubhrika Tiwari
- Platform Integration Engineer- Lakshya Rohitass
-Project Lead & Documentation Manager- Sarthak Jain
+- Product Designer & UX Lead- Pragya Jain
+- Content Architect & Learning Designer- Shubhrika Tiwari
+- Platform Integration Engineer- Lakshya Rohitass
+- Project Lead & Documentation Manager- Sarthak Jain
 
 > Roles indicate primary ownership; contributions were collaborative and iterative.
 ---
