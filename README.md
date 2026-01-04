@@ -67,7 +67,7 @@ User → Google Sites → Canva UI → Google Forms → Google Sheets → Google
 
 - Product Designer & UX Lead- Pragya Jain
 - Content Architect & Learning Designer- Shubhrika Tiwari
-- Platform Integration Engineer- Lakshya Rohitass
+- Platform Integration Engineer (Google Sites, Forms, Sheets) & Game  Designer - Lakshya Rohitass
 - Project Lead & Documentation Manager- Sarthak Jain
 
 > Roles indicate primary ownership; contributions were collaborative and iterative.
