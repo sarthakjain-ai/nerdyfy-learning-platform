@@ -67,7 +67,7 @@ Each mini-game:
 ---
 
 ## Competitive & Collaborative Learning
-![Compete & Collaborate](compete.png)
+![Compete & Collaborate](images/compete.png)
 
 ### Guild System
 - Small teams of 6–8 learners
