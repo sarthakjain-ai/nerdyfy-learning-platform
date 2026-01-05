@@ -1,4 +1,4 @@
-#UI-overview : Nerdyfy
+# UI-overview : Nerdyfy
 This document showcases the user interface of Nerdyfy, a gamified community learning platform. The UI is designed using Canva and implemented as a prototype via Google Sites and Google Forms.
 
 ---
