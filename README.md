@@ -4,7 +4,7 @@ Project-based learning platform with gaming elements - Built on Google Cloud
 ---
 
 ## 🚀 Live Demo
-👉https://sites.google.com/view/nerdyfy/home?authuser=0
+👉https://sites.google.com/view/nerdyfy/home
 ---
 
 ## 📌 Problem Statement
