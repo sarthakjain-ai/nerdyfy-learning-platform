@@ -47,14 +47,15 @@ GEMINI_API_KEY=your key
 
 ## Current Links
 - Game Forms:  
- Scholar Strike: Test pointer knowledge 
- [https://docs.google.com/forms/d/e/1FAIpQLScYjz8rHio8Irf1U34NSemzKg7w7G2DolvFVP-5PyeSeygqYA/viewform?usp=sharing&ouid=     108543683356947191838]
+- Scholar Strike: Test pointer knowledge 
+ [https://docs.google.com/forms/d/e/1FAIpQLScYjz8rHio8Irf1U34NSemzKg7w7G2DolvFVP-5PyeSeygqYA/viewform?usp=sharing&ouid=108543683356947191838]
 
- Pinocchio's Code: Find bugs
+- Pinocchio's Code: Find bugs
  [https://docs.google.com/forms/d/e/1FAIpQLSceQJVAhJ8RQe9FyZeSjaiugJGi0MMEjGTwrkBm9VtV6W61Dw/viewform?usp=sharing&ouid=108543683356947191838]
 
- Harry Pot: Logic building
+- Harry Pot: Logic building
 [https://docs.google.com/forms/d/e/1FAIpQLSfnPb3sea64bEcnkDOJzISU4fYsDM7A4aqApSMOmig4cOHDjg/viewform?usp=sharing&ouid=108543683356947191838]
 
 - Sheets: [https://docs.google.com/spreadsheets/d/1-Kd8GTbI9l6gie62Yzy6Mk6PDvZ9Ok4boJr4ZTTV5CA/edit?usp=sharing]
+
 - Drive: [https://drive.google.com/drive/folders/1_SVfk6ChpVOhCDFyKzN5figIPhyRYM5q?usp=sharing]
